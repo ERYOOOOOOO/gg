@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(48, 48, 48);
+}
+
+h1.Google{
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+
+}
+
+div#text_design {
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    border: 1px solid white;
+    border-radius: 100px;
+    background-color: white;
+    width: 699px;
+    height: 40px;
+    text-align: left;
+}img#icon2{
+    position: relative;
+    left: 20px;
+    margin: -10px;
+    width: 35px;
+    height: 40px;
+}
+
+div#hot_bar {
+    border: 1px solid rgb(48, 48, 48);
+    width: 220px;
+    height: 40px;
+    position: absolute;
+    right: 0%;
+    display: flex;
+}img#chad{
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+p {
+    color: white;
+}
+textarea#text_area{
+    position: relative;
+    top: -45px;
+    height: 25px;
+    left: 20px;
+    width: 650px;
+    border: 1px solid white;
+    border-radius:100px ;
+    
+}
+div#useless{
+    width: 30px;
+}img#fake{
+    position: absolute;
+    top: 0%;
+    width: 150px;
+    left: 85%;
+}
